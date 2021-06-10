@@ -56,4 +56,5 @@ def getresult(image_box):
 # из-за инициализации библиотек
 # возможно, лучше убрать и закомментировать эти строки
 # fcount, fimage = read_image_files(1,'./static')
-# decode = getresult
+# decode = getresult 
+#
